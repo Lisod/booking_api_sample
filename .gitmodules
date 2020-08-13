@@ -1,0 +1,4 @@
+[submodule "nodedock"]
+	path = nodedock
+	url = git@gitlab.lisod.vn:dan/nodedock.git
+	branch = master
